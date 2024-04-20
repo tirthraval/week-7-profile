@@ -1,0 +1,25 @@
+.profile{
+     position: relative;
+    height: 310px;
+    width: 300px;
+    border: 1px black solid;
+}
+.profile-img{
+    border-radius:50%; 
+    height: 45%;
+    width: 45%; 
+}
+.background-img{
+    height: 100px;
+    width: 100%;
+    
+}
+.bottom-part{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid black;
+    padding: 5px;
+}
+.bottom-items{
+    font-size: small;
+}
